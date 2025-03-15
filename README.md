@@ -1,6 +1,6 @@
 A simple Fastify + [Cap'n Proto][capnp] example.
 
-Part of [Happy Little Monoliths][hlm]. Read [the excerpt][].
+Part of [Happy Little Monoliths][hlm]. Read [the excerpt][excerpt].
 
 [capnp]: https://capnproto.org/
 [hlm]: https://hire.jonasgalvez.com.br/happy-little-monoliths
