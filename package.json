@@ -1,0 +1,12 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@fastify/vite": "8.0.0-alpha.2",
+    "capnp-es": "^0.0.7",
+    "fastify": "^5.2.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.2.1",
+    "vite": "^6.2.2"
+  }
+}
